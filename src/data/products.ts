@@ -16,7 +16,7 @@ export const products: Product[] = [
     ],
     inStock: true,
     featured: true,
-    dimensions: "86"W x 38"D x 37"H",
+    dimensions: "86\" W x 38\" D x 37\" H",
     material: "Polyester, wood",
     colors: ["Gray", "Navy", "Beige"]
   },
@@ -32,7 +32,7 @@ export const products: Product[] = [
     ],
     inStock: true,
     featured: true,
-    dimensions: "48"W x 24"D x 18"H",
+    dimensions: "48\" W x 24\" D x 18\" H",
     material: "Solid oak, metal",
     colors: ["Natural", "Walnut", "Black"]
   },
@@ -48,7 +48,7 @@ export const products: Product[] = [
     ],
     inStock: true,
     featured: false,
-    dimensions: "26"W x 26"D x 38-42"H",
+    dimensions: "26\" W x 26\" D x 38-42\" H",
     material: "Mesh, plastic, metal",
     colors: ["Black", "Gray"]
   },
@@ -64,7 +64,7 @@ export const products: Product[] = [
     ],
     inStock: true,
     featured: true,
-    dimensions: "63"W x 84"L x 48"H",
+    dimensions: "63\" W x 84\" L x 48\" H",
     material: "Wood, upholstery",
     colors: ["Gray", "Beige", "Blue"]
   },
@@ -80,7 +80,7 @@ export const products: Product[] = [
     ],
     inStock: true,
     featured: true,
-    dimensions: "72"L x 42"W x 30"H",
+    dimensions: "72\" L x 42\" W x 30\" H",
     material: "Solid wood, veneer",
     colors: ["Walnut", "Oak", "White"]
   },
@@ -96,7 +96,7 @@ export const products: Product[] = [
     ],
     inStock: true,
     featured: false,
-    dimensions: "36"W x 12"D x 72"H",
+    dimensions: "36\" W x 12\" D x 72\" H",
     material: "Engineered wood",
     colors: ["White", "Black", "Brown"]
   },
@@ -112,7 +112,7 @@ export const products: Product[] = [
     ],
     inStock: true,
     featured: false,
-    dimensions: "28"W x 30"D x 33"H",
+    dimensions: "28\" W x 30\" D x 33\" H",
     material: "Fabric, wood",
     colors: ["Mustard", "Blue", "Green"]
   },
@@ -128,7 +128,7 @@ export const products: Product[] = [
     ],
     inStock: true,
     featured: false,
-    dimensions: "65"W x 18"D x 24"H",
+    dimensions: "65\" W x 18\" D x 24\" H",
     material: "Wood, metal",
     colors: ["Black", "White", "Walnut"]
   }
